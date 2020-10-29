@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfJoukkue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Joukkue>
+    <nimi>KALPA</nimi>
+    <voitot>0</voitot>
+    <tappiot>0</tappiot>
+    <tasapelit>0</tasapelit>
+    <laji>jaakiekko</laji>
+    <pelaaja>
+      <etunimi>SAS</etunimi>
+      <sukunimi>DAC</sukunimi>
+      <pelinumero>0</pelinumero>
+      <pisteet>
+        <maalit>0</maalit>
+        <syotot>0</syotot>
+      </pisteet>
+    </pelaaja>
+  </Joukkue>
+</ArrayOfJoukkue>
